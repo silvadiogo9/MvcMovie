@@ -15,6 +15,7 @@ namespace MvcMovie
         public static void Main(string[] args)
         {
             CreateWebHostBuilder(args).Build().Run();
+            //O Bigodes é lindo
         }
 
         public static IWebHostBuilder CreateWebHostBuilder(string[] args) =>
